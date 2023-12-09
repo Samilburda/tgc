@@ -24,7 +24,7 @@ setup(
     version=about['__version__'],
     long_description=readme,
     long_description_content_type='text/markdown',
-    url='https://github.com/pytgcalls/pytgcalls',
+    url='https://github.com/Samilburda/tgc',
     author='Laky-64',
     author_email='iraci.matteo@gmail.com',
     license='LGPL-3.0',
